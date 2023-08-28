@@ -10,3 +10,5 @@ Building a non-deterministic automaton
 - no choices - never need to "split" a pointer
 - Follow the NFA and keep track of possible states as inputs are provided.
 - Empty state is reached if there is no definition for a transition
+
+[[Minimization]]

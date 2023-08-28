@@ -15,7 +15,7 @@
               "state": {
                 "file": "Compilers/Building an automaton.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -25,9 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compilers/Untitled 1.md",
+                "file": "Compilers/Minimization.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compilers/Untitled 1.md",
+                "file": "Compilers/Minimization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compilers/Untitled 1.md",
+                "file": "Compilers/Minimization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compilers/Untitled 1.md"
+                "file": "Compilers/Minimization.md"
               }
             }
           }
@@ -159,16 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "416e419167154090",
+  "active": "9ec81cc9e3abd1dc",
   "lastOpenFiles": [
+    "Compilers/Regex.md",
     "Compilers/Building an automaton.md",
-    "Compilers/Untitled 1.md",
-    "Compilers/Untitled 1.md",
+    "Compilers/Minimization.md",
     "TODO.md",
     "Senior seminar/Self introduction.md",
     "Compilers/Finite Automata.md",
     "Compilers/Compilers.md",
-    "Compilers/Regex.md",
     "Compilers/Analyzing source code.md",
     "Untitled.md",
     "Networks/Network Performance Metrics.md",
