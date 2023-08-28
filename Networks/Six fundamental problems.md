@@ -34,6 +34,6 @@
 	- packets can be dropped, queue can overflow, router can crash, corruption, etc.
 	- After sending data, wait for ACK from destination
 	- If ACK is not recieved, re-send the data
-	- Repeat until ACK is recieved
+	- Repeat until ACK is recieved (or timeout)
 # application multiplexing
 -
