@@ -43,29 +43,3 @@ Assuming store and forward model
 - When packet arrival rate exceeds packet drain rate
 $TD_{AB}(P2) < TD_{BC}(P1)$
 
-# Six Fundamental problems
-1. Naming and addressing
-- Provide identifiers to every node in the network
-- Name: which node it is
-	- www.google.com
-- Address: where node it located
-	- IP address 172.21.4.110
- - Why do we need a name
-	 - Address changes, name does not!
-	  - Convenient for users to remember names
-- Networks route data using addresses, not names. For scalability.
-2. Destination discovery
-- Mapping URLs to addresses with DNS
-3. routing
-- Finding a path between source and destination host with a routing protocol
-	- Distributed algorithm that runs at each router
-		- each router has a partial view of network
-	 - compute paths to all destinations in the network graph
-	 - store path information in a routing table data structure
-		  - Keeps track of which destination should go to which router
-1. forwarding
--
-5. reliability
--
-6. application multiplexing
--
