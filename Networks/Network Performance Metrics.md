@@ -57,8 +57,10 @@ $TD_{AB}(P2) < TD_{BC}(P1)$
 2. Destination discovery
 - Mapping URLs to addresses with DNS
 3. routing
-- 
-4. forwarding
+- Finding a path between source and destination host with a routing protocol
+	- Distributed algorithm that runs at each router
+	- each router has a partial view of network
+1. forwarding
 -
 5. reliability
 -
