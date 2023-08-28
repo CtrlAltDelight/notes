@@ -51,8 +51,12 @@
             "id": "95119238d788a3b1",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compilers/Building an automaton.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -122,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compilers/Building an automaton.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Compilers/Building an automaton.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compilers/Building an automaton.md"
+              }
             }
           }
         ]
@@ -181,12 +189,12 @@
   },
   "active": "95119238d788a3b1",
   "lastOpenFiles": [
+    "Compilers/Compilers.md",
+    "Compilers/Regex.md",
+    "Compilers/Finite Automata.md",
     "Compilers/Building an automaton.md",
     "Compilers/Untitled 1.md",
     "Compilers/Analyzing source code.md",
-    "Compilers/Compilers.md",
-    "Compilers/Finite Automata.md",
-    "Compilers/Regex.md",
     "Untitled.md",
     "Networks/Network Performance Metrics.md",
     "302/sets.md",
