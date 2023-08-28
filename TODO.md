@@ -1,5 +1,6 @@
 [[Completed TODOs]]
 # ECE 468: Compilers
+- Homework 1
 # ECE 302: Probabilistic Methods
 # ECE 461: Software Engineering
 - Complete a typescript crash course
