@@ -14,8 +14,7 @@ Maximum number of bits that can be send through a network per unit time
 Total time between first bit leaving point A and last bit reaching point B
 - A measure of how fast one can send data through a network
 - good network has low delay
-- Can only send data 1 bit at a time
-	-  think I2C
+- Can only send data 1 bit at a time -  think I2C
 ### Models
 store-and-forward (default model)
 wait for entire packet to arrive before processing
@@ -46,8 +45,15 @@ $TD_{AB}(P2) < TD_{BC}(P1)$
 
 # Six Fundamental problems
 1. Naming and addressing
-2. Destination discovery
-3. routing
-4. forwarding
-5. reliability
-6. application multiplexing
+- Provide identifiers to every node in the network
+- Name: which node it is
+	- www.google.com
+- Address: where node it located
+	- IP address 172.21.4.110
+ - Why do we need a name
+	 - Address changes, name does not!
+1. Destination discovery
+2. routing
+3. forwarding
+4. reliability
+5. application multiplexing
