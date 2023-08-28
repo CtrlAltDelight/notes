@@ -13,5 +13,6 @@
 # ECE 49401: Senior Seminar
 - ~~Week 1 Readings~~
 - ~~Week 2 Readings and Quizzes~~
+- ~~Personal introduction~~
 # ENGL: Creative Writing
 - ~~Week 1 readings~~
