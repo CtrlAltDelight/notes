@@ -8,4 +8,3 @@ Building a non-deterministic automaton
 
 # Converting nfas to dfas
 - no choices - never need to "split" a pointer
-- 
