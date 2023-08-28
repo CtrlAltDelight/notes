@@ -8,5 +8,5 @@ Building a non-deterministic automaton
 
 # Converting NFAs to DFAs
 - no choices - never need to "split" a pointer
-- Follow the nfa and keep track of possible states as inputs are provided.
+- Follow the NFA and keep track of possible states as inputs are provided.
 - Empty state is reached if there is no definition for a transition
