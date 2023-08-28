@@ -53,8 +53,14 @@ $TD_{AB}(P2) < TD_{BC}(P1)$
  - Why do we need a name
 	 - Address changes, name does not!
 	  - Convenient for users to remember names
-1. Destination discovery
-2. routing
-3. forwarding
-4. reliability
-5. application multiplexing
+- Networks route data using addresses, not names. For scalability.
+2. Destination discovery
+- Mapping URLs to addresses with DNS
+3. routing
+- 
+4. forwarding
+-
+5. reliability
+-
+6. application multiplexing
+-
