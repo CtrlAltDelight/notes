@@ -5,3 +5,7 @@ Building a non-deterministic automaton
 - Unpredictable running time
 	- What if you make the wrong choice and have to backtrack? (Causes bugs)
  - You can generate a deterministic finite automaton from a non-deterministic one
+
+# Converting nfas to dfas
+- no choices - never need to "split" a pointer
+- 
