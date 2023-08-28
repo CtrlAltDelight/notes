@@ -62,6 +62,7 @@ $TD_{AB}(P2) < TD_{BC}(P1)$
 		- each router has a partial view of network
 	 - compute paths to all destinations in the network graph
 	 - store path information in a routing table data structure
+		  - Keeps track of which destination should go to which router
 1. forwarding
 -
 5. reliability
