@@ -52,6 +52,7 @@ $TD_{AB}(P2) < TD_{BC}(P1)$
 	- IP address 172.21.4.110
  - Why do we need a name
 	 - Address changes, name does not!
+	  - Convenient for users to remember names
 1. Destination discovery
 2. routing
 3. forwarding
