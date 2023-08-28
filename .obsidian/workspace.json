@@ -11,8 +11,12 @@
             "id": "f27185727c8f1c8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Networks/Network Performance Metrics.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Networks/Network Performance Metrics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Networks/Network Performance Metrics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Networks/Network Performance Metrics.md"
+              }
             }
           }
         ]
@@ -140,18 +148,18 @@
   },
   "active": "f27185727c8f1c8c",
   "lastOpenFiles": [
-    "Compilers/Building an automaton.md",
+    "Networks/Problem set 1.md",
     "Compilers/Minimization.md",
+    "Networks/Network Performance Metrics.md",
+    "Compilers/Building an automaton.md",
     "TODO.md",
     "Completed TODOs.md",
-    "Networks/Problem set 1.md",
     "Compilers/Analyzing source code.md",
     "Untitled.md",
     "Compilers/Regex.md",
     "Senior seminar/Self introduction.md",
     "Compilers/Finite Automata.md",
     "Compilers/Compilers.md",
-    "Networks/Network Performance Metrics.md",
     "302/sets.md",
     "302/Random math modeling.md",
     "302",

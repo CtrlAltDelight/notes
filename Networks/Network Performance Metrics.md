@@ -1,5 +1,5 @@
 # Bandwidth
-<dd>Maximum number of bits that can be send through a network per unit time</dd>
+Maximum number of bits that can be send through a network per unit time
 - A measure of how much data one can send through network
 - Standard unit: bits per second (bps)
 - good network has high bandwidth
@@ -11,17 +11,17 @@
 - Function of the mechanisms used to communicate over the physical network
 - Usually less than bandwidth due to inefficiencies of communication mechanisms
 # Delay/Latency
-<dd>Total time between first bit leaving point A and last bit reaching point B</dd>
+Total time between first bit leaving point A and last bit reaching point B
 - A measure of how fast one can send data through a network
 - good network has low delay
 - Can only send data 1 bit at a time
 	-  think I2C
 ### Models
-<dt>store-and-forward (default model)</dt>
-<dd>wait for entire packet to arrive before processing</dd>
+store-and-forward (default model)
+wait for entire packet to arrive before processing
 
-<dt>cut through model</dt>
-<dd>Start processing as soon as destination address is received</dd>
+cut through model
+Start processing as soon as destination address is received
 ## Types of delay (go back to this later)
 - Propogation Delay
 	- Link length/link propagation speed
@@ -43,3 +43,11 @@ Assuming store and forward model
 ## When can queuing happen at router
 - When packet arrival rate exceeds packet drain rate
 $TD_{AB}(P2) < TD_{BC}(P1)$
+
+# Six Fundamental problems
+1. Naming and addressing
+2. Destination discovery
+3. routing
+4. forwarding
+5. reliability
+6. application multiplexing
