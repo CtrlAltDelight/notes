@@ -36,4 +36,16 @@
 	- If ACK is not recieved, re-send the data
 	- Repeat until ACK is recieved (or timeout)
 # application multiplexing
--
+- When an app wants to access the network, it opens a *socket* which is associated with a *port* (a port is a 16 bit number)
+*socket*: and OS mechanism 
+## Host Network Stack
+- Program running in the OS
+- Responsible for taking data and sending in network (creates packets, headers, ACKs, etc.)
+- and getting data from the network and sending it to the right application
+
+## Packet header
+- Must have these things:
+	- destination address
+	- destination port
+	- where it's coming from (source address)
+	- source port
