@@ -59,7 +59,9 @@ $TD_{AB}(P2) < TD_{BC}(P1)$
 3. routing
 - Finding a path between source and destination host with a routing protocol
 	- Distributed algorithm that runs at each router
-	- each router has a partial view of network
+		- each router has a partial view of network
+	 - compute paths to all destinations in the network graph
+	 - store path information in a routing table data structure
 1. forwarding
 -
 5. reliability
