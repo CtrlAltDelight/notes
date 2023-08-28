@@ -26,3 +26,5 @@
   - Not very common
   - Modernize legacy machine code
   - Compatibility and performance
+
+[[Analyzing source code]][[]]

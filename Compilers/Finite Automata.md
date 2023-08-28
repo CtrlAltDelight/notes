@@ -25,3 +25,4 @@ Non-Deterministic if:
 	2. If any pointer reaches an accept state at the end of input, accept
 	3. (Accept largest amount of input)
 
+[[Building an automaton]]
