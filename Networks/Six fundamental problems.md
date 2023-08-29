@@ -49,3 +49,4 @@
 	- destination port
 	- where it's coming from (source address)
 	- source port
+Unix method of do one thing and do it right. All systems come together to do networking.

@@ -63,3 +63,41 @@ if sets A and B have no elements in Common, they are disjoint, so $A\cap B = \ph
 # Venn Diagrams
 A graphical representation of the universal set
 - Useful if you are stuck on a problem
+
+Union is like the entire venn diagram. Intersection is like only the middle of the venn diagram
+![img](https://i.stack.imgur.com/kIlCI.png)
+
+# Set algebra (How to find if two sets are equal)
+Operations applied to sets and tell us when two sets are equal.
+
+### Examples
+- Union and intersection are commutative and associative, so: 
+
+$A\cap B=B\cap A$
+- $\cap$ is distributive over $\cup$ 
+
+$A\cap (B\cup C)=(A\cup B)\cap(A\cup C)$
+ons of 
+- DeMorgan's laws (break the line, change the sign)
+
+$(A\cap B)^c=A^c\cup B^c$ 
+
+$(A\cup B)^c=A^c\cap B^c$
+
+# Three types of set
+- A set $A$ is **finite** if it contains a finite number of elements
+- A set $A$ is **countably infinite** if its elements can be counted, or listed in a way that includes all the elements, but the set is not finite. Can write as $A=\{x_1, x_2, ...\}$
+- A set $A$ is **uncountable** if its elements are not finite or countibly infinite. Such a set cannot be writted as a set.
+In this class, an uncountable set will be either $\R$ or an interval in $\R$.
+
+# Collections of sets
+- Finite collection of sets can be written as $A_1,...,A_n; n \ge 1$ where each $A_i \sub S$
+- Countibly infinite collection of sets can be written as $A_1,A_2,...$ Where each $A_i \sub S$
+
+Union of an indexed collection of sets is either $\cap_{i=1}^n A_i = \{\omega \in S$: $\omega$ is in at least one $A_i, i=1,...,n\}$
+The intersection of an indexed collection of sets is either:
+
+$\cap_{i=1}^n A_i = \{\omega \in S: \omega$ is in every $A_1,...A_n\}$
+
+$\cap_{i=1}^{inf} A_i = \{\omega \in S: \omega$ is in every $A_1,...A_n\}$
+
