@@ -9,6 +9,6 @@
 # ECE 463: Networks
 - Problem set 1
 # ECE 49401: Senior Seminar
-- Responses
+- Responses to introductions
 # ENGL: Creative Writing
 - Week 2 readings

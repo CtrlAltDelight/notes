@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Compilers/Finite Automata.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "d2ba3654813ecb53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compilers/Regex engine.md",
                 "mode": "source",
                 "source": true
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TODO.md",
+                "file": "Compilers/Regex engine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TODO.md",
+                "file": "Compilers/Regex engine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODO.md"
+                "file": "Compilers/Regex engine.md"
               }
             }
           }
@@ -159,11 +171,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d86ca4c0b87df7ed",
+  "active": "d2ba3654813ecb53",
   "lastOpenFiles": [
-    "Completed TODOs.md",
-    "TODO.md",
     "Compilers/Finite Automata.md",
+    "Compilers/Regex engine.md",
+    "TODO.md",
+    "Completed TODOs.md",
     "Compilers/Compilers.md",
     "Compilers/Analyzing source code.md",
     "Networks/Six fundamental problems.md",
