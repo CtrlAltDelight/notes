@@ -28,3 +28,5 @@ Using a transition table, it is straightforward to write a program to recognize 
 	- fragment characterClassName : regex1 | regex2 | ...
 	- Can use classes when defining tokenss
 # Parsing
+- A parser has 2 jobs
+	- determine if program is *valid* and determine the *structure*
