@@ -8,7 +8,9 @@
 - ~~GitHub account~~
 - ~~Become comfortable with an IDE~~
 - ~~Install a linter in your IDE~~
-- ~~Install CoPilot in your IDE~~
+- ~~Install CoPilot
+- ~~Learn a unit test framework in the programming language of your choice (such as JUnit or Pytest)~~
+in your IDE~~
 # ECE 463: Networks
 # ECE 49401: Senior Seminar
 - ~~Week 1 Readings~~
