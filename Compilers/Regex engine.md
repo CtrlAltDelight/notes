@@ -17,3 +17,14 @@ Using a transition table, it is straightforward to write a program to recognize 
 - Remember states (T) that can be final states
 - Buffer the characters from then on
 - If stuck in a non-final state, back up to T, restore buffered characters to stream
+# antlr
+- tool for building scanners and parsers
+	- language for defining tokens, automatically converted into Java, C, Python, etc.
+	- an example of compiling one high level language to another
+ - tokens
+	 - tokenName : regex1 | regex2 | ...
+	 - define tokens in order of precedence
+- character classes
+	- fragment characterClassName : regex1 | regex2 | ...
+	- Can use classes when defining tokenss
+# Parsing
