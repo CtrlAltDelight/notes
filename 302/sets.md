@@ -99,5 +99,24 @@ The intersection of an indexed collection of sets is either:
 
 $\cap_{i=1}^n A_i = \{\omega \in S: \omega$ is in every $A_1,...A_n\}$
 
-$\cap_{i=1}^{inf} A_i = \{\omega \in S: \omega$ is in every $A_1,...A_n\}$
+$\cap_{i=1}^{\infty} A_i = \{\omega \in S: \omega$ is in every $A_1,...A_n\}$
+
+
+**Examples**
+
+Show that $C=\cap_{l=0}^{\infty}$ but for example if $\omega \in [0,1]$ then $\omega \notin [2,3]$ since $[0,1]\cap [2,3] = \phi$ is a contradiction! So $\omega \notin A_i$ for every $i$ for any $\omega \in C$, so $C=\phi$
+
+# TODO learn proof by induction
+
+- $A=B \iff A^c=B^c$
+
+### disjoint
+A collection of sets $A_i$ is disjoint if $A_i\cap A_j=\phi$ for every $i\ne j$
+
+### Collection
+- A collection of sets forms a partition of $S$ if:
+    - it is disjoint, and
+    - $U_i A_i = S$
+
+# Total probability law
 
