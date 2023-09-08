@@ -4,3 +4,4 @@ $G=(V_c,V_n,S,P)$
 - $S\in V_n$ is the start symbol
 - $P$ is the set of productions
 - Each production takes the form: $V_n -> \lambda |(V_n | V_t)^+$
+
