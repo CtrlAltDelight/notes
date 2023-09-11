@@ -23,4 +23,6 @@ All you need to know about F is:
 2. The relative frequency approach (imperical approach)
    - For a fixed finite $N \ge 1$ let $P(A)=\frac{n_A}{n}$
    - $n_A$ # of times A occurs in n trials of experiment
-   - Let $P(A) = \lim_{n\to\infty}$
+   - Let $P(A) = \lim\_{n\to\infty} $
+
+It can be shown that the counting probability P and relative frequency of probability P satisfy the axioms!
