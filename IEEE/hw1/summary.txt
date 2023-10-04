@@ -1,0 +1,28 @@
+I used the basic structure of html shown in the first few slides of the html lecture. I
+made sure I had doctype at the top, an html tag, a header tag to put metadata about the
+website, and a body tag to put my content. Then, I used header tags with varying levels to show
+some titles and p tags to display text. I used a pair of anchor tags to reference some links to
+other websites that I have developed and launched as well as some projects from my GitHub
+page. For the links, I will note that I made unordered lists with li tags within them, as is common
+in html.
+
+The html is great, but it doesn’t look very good without css. Usually, I prefer to use tailwindcss
+as it is great for reducing the complexity of your code base while giving lots of flexibility in
+customization. However, for this assignment I chose to go with vanilla css, as it fits the theme of
+being the “first” assignment better. I went for an aqua accent color with a background image on
+the body that pokes through the margins of the main tag. I think it looks pretty good
+considering its vanilla html and css. I made some css that targeted the class “resize-image” that
+had some specific css to make the image a good size for the page. Without that, the image is
+much larger than the rest of the elements on the page. I also ensured that the website will
+always take up the entire viewport by using a height of 100vh.
+
+As for javascript, I did some searching of the DOM with document.getElementById. This
+allowed me to find the tags associated with a button and p that would allow me to create the
+incrementing number button. I also found a p tag by id that would house information about
+myself that I stored inside of an object.
+
+I hope it is apparent that I know html, css, and javascript (though I prefer typescript) to
+an extent that is passable for this homework. I put a good amount of effort into making sure
+the website looks good and displaying a bit of javascript as well. The videos use vanilla
+javascript and not react, which makes me think we are not using react for this assignment. If I
+am wrong on this, please let me know and I can redo the assignment using react.
